@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dark-tulip
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning on Stepik.org
-- 💞️ I’m looking to collaborate on YANDEX LLC
 - 📫 How to reach me darktulip28@gmail.com
 
 <!---
