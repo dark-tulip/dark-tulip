@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 I’m interested in ...
+- 👀 I’m interested in QA-testing 
 - 🌱 I’m currently learning on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
 
