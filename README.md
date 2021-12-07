@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 I’m interested in finding a job as a QA or Python-backend developer
-- 🌱 I’m currently learning on AUPET and like practising on Stepik.org
+- 👀 I’m interested in Python-backend development 
+- 🌱 I’m currently learning on AUPET and practising on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
 
 <!---
