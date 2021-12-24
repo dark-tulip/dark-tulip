@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 I’m interested in Python-backend development 
+- 👀 I’m interested in
 - 🌱 I’m currently learning on AUPET and practising on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
 
