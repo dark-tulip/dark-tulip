@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 Worked as a QA, now looking for a job
+- 👀 Java Selenide Automation QA =)
 - 🌱 I’m currently learning on AUPET and practising on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
 
