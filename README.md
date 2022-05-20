@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 Java / Selenide =)
-- 🌱 I’m currently learning on AUPET and practising on Stepik.org
+- 👀 Test Engineer (about 1 year experience), Java/Selenide (next to -> Software Engineer in Test) 
+- 🌱 Currently learning on AUPET and like to practice on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
+
+✨ Imagine and write in hope to help someone solve same problem ✨
 
 <!---
 dark-tulip/dark-tulip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
