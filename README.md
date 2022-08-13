@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 Test Engineer, Java/Selenide (next to -> Software Engineer in Test) 
+- 👀 Test Engineer, Java/Selenide (moving to Software Engineer in Test) 
 - 🌱 Currently learning on AUPET and like to practice on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
 
