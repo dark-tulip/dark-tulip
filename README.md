@@ -2,6 +2,8 @@
 - 👀 Инженер по тестированию, решивший перейти в программисты
 - 🌱 Currently learning on AUPET and like to practice on Stepik.org
 - 📫 How to reach me darktulip28@gmail.com
+- Feel as a part of free software foundation
+- ✉️ <a href="https://t.me/dark_tulip">telegram</a>
 
 ✨ Imagine and write in hope to help someone solve same problem ✨
 
