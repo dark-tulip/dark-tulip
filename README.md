@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-tulip
-- 👀 SDET
+- 👀 Currently, I am a Java Developer, My congratulations!!!
 - 🌱 Currently learning on AUPET (Almaty, Kazakhstan)
 - 📫 How to reach me darktulip28@gmail.com
 - ✉️ If you have some problems, contact me via <a href="https://t.me/dark_tulip">telegram</a>
