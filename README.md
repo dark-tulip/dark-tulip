@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dark-tulip
 - 👀 Currently, I am a Java Developer, My congratulations!!!
-- 🌱 Currently learning on AUPET (Almaty, Kazakhstan)
+- 🌱 Almaty, Kazakhstan
 - 📫 How to reach me darktulip28@gmail.com
 - ✉️ If you have some problems, contact me via <a href="https://t.me/dark_tulip">telegram</a>
 > <i>Anything I write or published here is free to use. I think, that learning should be free. No matter how many skills you have, try to share your knowledge. </i>
