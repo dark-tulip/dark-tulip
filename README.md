@@ -1,4 +1,4 @@
-### Currently, I'm looking for a job as a Java developer, please contact me via**  <a href="https://t.me/dark_tulip">telegram</a>
+### Currently, I'm looking for a job as a Java developer, please contact me via <a href="https://t.me/dark_tulip">telegram</a>
 
 <hr>
 
