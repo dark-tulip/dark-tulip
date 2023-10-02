@@ -1,4 +1,18 @@
-**Currently, I'm looking for a job as a Java developer, please contact me via**  <a href="https://t.me/dark_tulip">telegram</a>
+### Currently, I'm looking for a job as a Java developer, please contact me via**  <a href="https://t.me/dark_tulip">telegram</a>
+
+<hr>
+
+My common working stack and practice fields:
+- Java Core (openjdk 11/17), Spring Framework
+- Kafka
+- DevOps / TestOps
+- Gitlab CI
+- Python3 / Bash 
+- P/SQL (PostgreSQL), PL/SQL (Oracle), T-SQL (MSSQLServer)
+- MongoDB, ElastickSearch
+
+<hr>
+
 - 👋 Hi, I’m @dark-tulip
 - 👀 Currently, I am a Java Developer (~2y. of experience)!!!
 - 🌱 Almaty, Kazakhstan
