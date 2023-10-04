@@ -13,8 +13,8 @@ My common working stack and practice fields:
 
 <hr>
 
-- 👋 Hi, I’m @dark-tulip
-- 👀 Currently, I am a Java Developer (~2y. of experience)!!!
+- 👋 Hi, I’m Tansholpan
+- 👀 Currently, I'm a Java Developer (~2y. of experience)
 - 🌱 Almaty, Kazakhstan
 - 📫 How to reach me darktulip28@gmail.com
 > <i>Anything I write or published here is free to use. I think, that learning should be free. No matter how many skills you have, try to share your knowledge. </i>
