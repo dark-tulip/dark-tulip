@@ -7,7 +7,7 @@ My common working stack and practice fields:
 - Gitlab CI
 - Python3 / Bash 
 - P/SQL (PostgreSQL), PL/SQL (Oracle), T-SQL (MSSQLServer)
-- MongoDB, ElastickSearch
+- MongoDB, ElasticSearch
 
 <hr>
 
