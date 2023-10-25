@@ -1,5 +1,3 @@
-### Currently, I'm looking for a job as a Java developer, please contact me via <a href="https://t.me/dark_tulip">telegram</a>
-
 <hr>
 
 My common working stack and practice fields:
