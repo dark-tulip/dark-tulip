@@ -1,13 +1,7 @@
 <hr>
 
-My common working stack and practice fields:
-- Java Core (openjdk 11/17), Spring Framework
-- Kafka
-- DevOps / TestOps
-- Gitlab CI
-- Python3 / Bash 
-- P/SQL (PostgreSQL), PL/SQL (Oracle), T-SQL (MSSQLServer)
-- MongoDB, ElasticSearch
+Hi there! I'm Java Developer, currently working at Innoforce.kz and building innovative valuable IT products for Kazakhstans' bus tracking and logistic systems.
+Nice to see you in my repository which contains mostly from educational projects cause of NDA. Feel free to ask any questions and contact me via telegram @dark_tulip
 
 <hr>
 
