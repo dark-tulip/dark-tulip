@@ -1,7 +1,11 @@
 <hr>
 
-Hi there! I'm Java Developer, currently working at Innoforce.kz and building innovative valuable IT products for Kazakhstans' bus tracking and logistic systems.
-Nice to see you in my repository which contains mostly from educational projects cause of NDA. Feel free to ask any questions and contact me via telegram @dark_tulip
+Hi there! 
+
+I'm Java Developer, currently working at `Innoforce.kz` and building innovative valuable IT products for Kazakhstans' bus tracking and logistic systems.
+
+
+Nice to see you in my repository which mostly consist from educational projects (cause of NDA). Feel free to ask any questions and contact me via telegram @dark_tulip
 
 <hr>
 
